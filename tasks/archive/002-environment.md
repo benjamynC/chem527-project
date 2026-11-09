@@ -1,8 +1,8 @@
 # 002: Copy the course environment
 
-- **Status:** active
-- **Created:** YYYY-MM-DD
-- **Updated:** YYYY-MM-DD
+- **Status:** done
+- **Created:** 2026-11-05
+- **Updated:** 2026-11-05
 - **Due:** 2026-11-01, after task 001
 
 ## Goal
@@ -77,5 +77,6 @@ If the course announces a change to its package list, copy the three files again
 The cell in step 4 prints Python 3.14 and the same package versions as a session notebook, and the three files are pushed.
 
 ## Progress log
-
+copied and tested python environment.
 ## Outcome
+changes commited and pushed

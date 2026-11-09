@@ -28,6 +28,6 @@ When the student asks for a plan, give it in words and write no code until the s
 
 The student replaces the three lines below and adds a line each time they correct the assistant on the same point twice.
 
-- Question: (one sentence)
-- Data: (the file in `data/`, what one row is, and its source URL and access date)
-- Measured variable: (its column name and unit)
+- Question: Can the percent of phospholipase A2 in the total protein makeup of cobra venom be estimated from RP-HPLC-UV peak areas, and can this method track PLA2% to the ability to spit venom, rather than to being a true cobra (genus Naja)?
+- Data: (the files in `data/Arrahman`) one file is one chromatogram, one row is one time measurment. https://figshare.com/articles/dataset/LC-UV_Chromatogram/19447583?file=34549724 accessed 11/07/2026
+- Measured variable: "220 nm": absorbance at 220 nm (unknown units), "254 nm": absorbance at 254 nm (unknown units)
