@@ -1,4 +1,4 @@
-## Can the percent of phospholipase A2 in the total protein makeup of cobra venom be estimated from RP-HPLC-UV peak areas, and can this method track PLA2% to the ability to spit venom, rather than to being a true cobra (genus Naja)?
+## Can the percent of phospholipase A2 in the total protein makeup of cobra venom be estimated from RP-HPLC-UV peak areas?
 RP-HPLC-UV chromatograms of whole venoms for five species: two non-spitting true cobras (Naja naja, Naja haje), two spitting true cobras (Naja pallida, Naja nigricollis), and one spitting “cobra” outside of the Naja genus (Hemachatus haemachatus), will be used. This project asks if absorbance area, corrected for relative extinction coefficients, can be used to estimate PLA2 levels. Extinction coefficients will be estimated per species using published relative abundances of proteins in the two primary categories of toxin in these snakes.
 
 ### Data

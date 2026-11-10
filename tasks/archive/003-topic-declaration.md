@@ -1,8 +1,8 @@
 # 003: Topic declaration
 
-- **Status:** active
-- **Created:** YYYY-MM-DD
-- **Updated:** YYYY-MM-DD
+- **Status:** done
+- **Created:** 2026-11-05
+- **Updated:** 2026-11-10
 - **Due:** 2026-11-08, 11:59 pm
 
 ## Goal
@@ -57,5 +57,11 @@ git rev-parse HEAD
 The Canvas entry is in. Close this task after it is, with the URL you submitted in **Outcome**, and commit and push the closed task. Your mentor reads the repository at the commit you submitted, so later commits do not change what is scored.
 
 ## Progress log
+11/08 data folder added and data files pasted in
+11/08 topic.ipynb created
+11/08 proposal.md created
+11/10 proposal.md modified to reflect topic as stated in topic.ipynb
+11/10 proposal.pdf removed
 
 ## Outcome
+https://github.com/benjamynC/chem527-project/commit/6ecb0d42432a9a0aa7d9079eef613b967f397ebd
